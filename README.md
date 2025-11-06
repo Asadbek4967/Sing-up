@@ -39,7 +39,7 @@ width="120" style="margin-right:10px;">
 <img src="./screen4.png" width="120" style="margin-right:10px;"> 
 <img src="./screen5.png" width="120" style="margin-right:10px;">
 <img src="./screen6.png" width="120" style="margin-right:10px;"> 
-<img src="./screen7.png" width="120"> </p>
+<img src="./screen7.png" width="120" style="margin-right:10px;">> </p>
 
 ## ⚙️ Installation
 
